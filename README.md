@@ -164,7 +164,7 @@ Overall, this architecture delivers a reliable, secure, and cost-effective cloud
 ___
 
 ## Writer: Krinjal M.
-## Linkedin :https://www.linkedin.com/in/krinjal-matekar-1bb9b4320/
+## Linkedin: https://www.linkedin.com/in/krinjal-matekar-1bb9b4320/
 
 
 
